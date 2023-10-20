@@ -1,0 +1,3605 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 1,
+                "name": "ASSOCIATION PARENTALE LOI 1901",
+                "addr_full": "BAT LA REINEDES ALPES",
+                "city": "JAUSIERS",
+                "postcode": "04850",
+                "phone": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.733329,
+                    44.419576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 2,
+                "name": "MAIRIE",
+                "addr_full": "8 AVENUE ARISTIDE BRIAND",
+                "city": "AUDINCOURT",
+                "postcode": "25400",
+                "phone": "0381363712"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8420322,
+                    47.4816379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 3,
+                "name": "ASSOCIATION LA RIMBAMBELLE",
+                "addr_full": "19 RUE DU DOME",
+                "city": "BOULOGNE BILLANCOURT",
+                "postcode": "92100",
+                "phone": "0146949189"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2518698,
+                    48.8331756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 4,
+                "name": "HAPPY FAMILY 92",
+                "addr_full": "56 B AV DE LA DIV. LECLERC",
+                "city": "ANTONY",
+                "postcode": "92160",
+                "phone": "0176647360"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3040474,
+                    48.7499069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 5,
+                "name": "CRECHE ASSO REGIONALE DES INC",
+                "addr_full": "106 RUE JEAN FOURNIER  LYON 09",
+                "city": "LYON",
+                "postcode": "69009",
+                "phone": "0478474476"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7938403,
+                    45.779414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 6,
+                "name": "CRECHE ASSOCIATIVE BOULE DE GOMME",
+                "addr_full": "31 RUE ROQUELAINE",
+                "city": "TOULOUSE",
+                "postcode": "31000",
+                "phone": "0561620849"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4463952,
+                    43.6114837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 7,
+                "name": "DURET ASSISTANCE",
+                "addr_full": "21 RUE DE L EGLISE",
+                "city": "SANDARVILLE",
+                "postcode": "28120",
+                "phone": "0628702419"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3557421,
+                    48.3548305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 8,
+                "name": "CENTRE SOCIO CULTUREL ARTHUR RIMBAUD",
+                "addr_full": "2 AVENUE DE GAIL",
+                "city": "OBERNAI",
+                "postcode": "67210",
+                "phone": "0388950124"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4907239,
+                    48.4616502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 9,
+                "name": "MJC",
+                "addr_full": "RUE DES  ECOLES",
+                "city": "BRIENNON",
+                "postcode": "42720",
+                "phone": "0477607315"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.08812,
+                    46.150893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 10,
+                "name": "MAIRIE DE COURTENAY",
+                "addr_full": "1 PLACE HONORE COMBE",
+                "city": "COURTENAY",
+                "postcode": "45320",
+                "phone": "0238974752"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.058514,
+                    48.0396139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 11,
+                "name": "KERNEIS SERVICES A DOMICILE",
+                "addr_full": "11  RUE DES DAMES",
+                "city": "LES CLAYES SOUS BOIS",
+                "postcode": "78340",
+                "phone": "0130565705"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9723568,
+                    48.8265696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 12,
+                "name": "MMM COGWAC",
+                "addr_full": "7 RUE DE SECHEBEC",
+                "city": "COGNAC",
+                "postcode": "16100",
+                "phone": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3083105,
+                    45.6925705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 13,
+                "name": "VILLE DE JOIGNY",
+                "addr_full": "3 QUAI DU 1ER DRAGONS  BP 210",
+                "city": "JOIGNY CEDEX",
+                "postcode": "89306",
+                "phone": "0386924800"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3996276,
+                    47.9810568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 14,
+                "name": "ASSOCIATION FAMILLES RURALES",
+                "addr_full": "PLACE DE L AIRE DU FOUR MME BOSSARD",
+                "city": "ST ANDRE DE LA MARCHE",
+                "postcode": "49450",
+                "phone": "0241304559"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.9944684,
+                    47.101157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 15,
+                "name": "SIRP CHAMPRON MONTLANDON MONTIREAU",
+                "addr_full": "72 GRANDE RUE",
+                "city": "CHAMPROND EN GATINE",
+                "postcode": "28240",
+                "phone": "0237498278"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.0740216,
+                    48.4013948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 16,
+                "name": "LABEL ETUDE 2 PROGRESSION",
+                "addr_full": "25 AVENUE DU GIFFRE",
+                "city": "ANNEMASSE",
+                "postcode": "74100",
+                "phone": "0672567474"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2399737,
+                    46.1952927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 17,
+                "name": "COULEUR JARDIN SERVICES",
+                "addr_full": "16 AVENUE DE LA PLAINE",
+                "city": "BEAUCAIRE",
+                "postcode": "30300",
+                "phone": "0490917266"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6362173,
+                    43.8047471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 18,
+                "name": "LAURENT SAVI",
+                "addr_full": "LA CARRERE",
+                "city": "BOIS DE LA PIERRE",
+                "postcode": "31390",
+                "phone": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.149163,
+                    43.341758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 19,
+                "name": "ASSOCIATION LOI 1901",
+                "addr_full": "8 RUE DE L EGLISE MME MOROUCHE SANDRINE",
+                "city": "GOUY SOUS BELLONNE",
+                "postcode": "62112",
+                "phone": "0321248746"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0555385,
+                    50.3123122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 20,
+                "name": "CENTRE DE LOISIRS",
+                "addr_full": "98 AVENUE AUGUSTE RENOIR",
+                "city": "LA GARDE",
+                "postcode": "83130",
+                "phone": "0494085348"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0204987,
+                    43.1328335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 21,
+                "name": "MAJOR HOME SERVICE",
+                "addr_full": "254 BLD WILSON",
+                "city": "BORDEAUX",
+                "postcode": "33000",
+                "phone": "0524618755"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5975043,
+                    44.8479666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 22,
+                "name": "SERVICES PLUS",
+                "addr_full": "7 RUE DU BEARN",
+                "city": "AUSSEVIELLE",
+                "postcode": "64230",
+                "phone": "0610200071"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4869127,
+                    43.3553728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 23,
+                "name": "COM DE COMMUNES DE L ILE DE RE",
+                "addr_full": "3 RUE DE PERE IGNACE",
+                "city": "ST MARTIN DE RE",
+                "postcode": "17410",
+                "phone": "0517832059"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.3671955,
+                    46.2019164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 24,
+                "name": "ASSOCIATION LES P TITES GUEULES",
+                "addr_full": "2 RUE DES ECOLES",
+                "city": "VAGNEY",
+                "postcode": "88120",
+                "phone": "0329617134"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.7173692,
+                    48.0061554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 25,
+                "name": "FEE DU LOGIS ET COMPAGNIE",
+                "addr_full": "38 LIEU DIT BRAMBILLEC",
+                "city": "KERVIGNAC",
+                "postcode": "56700",
+                "phone": "0663109935"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9293476,
+                    44.9957745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 26,
+                "name": "CENTRE SERVICES",
+                "addr_full": "10 RUE DE PARIS",
+                "city": "CHARENTON LE PONT",
+                "postcode": "94220",
+                "phone": "0184040770"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4190615,
+                    48.8186091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 27,
+                "name": "ASSOCIATION LES PTITES GUEULES",
+                "addr_full": "2 RUE DES ECOLES",
+                "city": "VAGNEY",
+                "postcode": "88120",
+                "phone": "0329617134"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.7173692,
+                    48.0061554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 28,
+                "name": "MAISON ET SERVICES",
+                "addr_full": "6 RUE VALENTINE TERECHKOVA APPT F1 304",
+                "city": "TOULOUSE",
+                "postcode": "31400",
+                "phone": "0562755477"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4769268,
+                    43.5771442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 29,
+                "name": "ACCUEIL DE LOISIRS LES PTITS LOUPS",
+                "addr_full": "1 RUE CHIRPAR",
+                "city": "PIPRIAC",
+                "postcode": "35550",
+                "phone": "0299343140"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9415033,
+                    47.8078582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 30,
+                "name": "ROMAIN 52 MULTI SERVICE",
+                "addr_full": "35 RUE MAURICE PAILLOT",
+                "city": "FRONCLES",
+                "postcode": "52320",
+                "phone": "0768296219"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1449163,
+                    48.2951278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 31,
+                "name": "EURL OUI SERVICES",
+                "addr_full": "180 ALLEE DES TROPIQUES  SAC DES ILES",
+                "city": "MARCILLY D AZERGUES",
+                "postcode": "69380",
+                "phone": "0478433767"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7185756,
+                    45.8661069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 32,
+                "name": "KANGOUROU KIDS",
+                "addr_full": "53 AVENUE PASTEUR",
+                "city": "MONTREUIL",
+                "postcode": "93100",
+                "phone": "0148579000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4361729,
+                    48.8651759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 33,
+                "name": "SARL LE TIPI DES TOUPETI",
+                "addr_full": "3 RUE DE CHEMIN SAINT MARTIN  LONNE",
+                "city": "LILLE",
+                "postcode": "59160",
+                "phone": "0621944924"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.9733761,
+                    50.6414119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 34,
+                "name": "SASU LCC",
+                "addr_full": "17 RUE MAX LINDER",
+                "city": "LIBOURNE",
+                "postcode": "33500",
+                "phone": "0670210847"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2369076,
+                    44.938461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 35,
+                "name": "MICRO CRECHE PETITE PLUME",
+                "addr_full": "10 AVENUE JEAN JAURES",
+                "city": "PRAYSSAS",
+                "postcode": "47360",
+                "phone": "0666968256"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.5097564,
+                    44.2888071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 36,
+                "name": "AUTO ENTREPRENEUR",
+                "addr_full": "73 RUE MOLIERE APPT D16",
+                "city": "MARGNY LES COMPIEGNE",
+                "postcode": "60280",
+                "phone": "0676389336"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8225163,
+                    49.4242737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 37,
+                "name": "LES PTITS PIED DU 77",
+                "addr_full": "S CHEMIN DES GENDARMES",
+                "city": "BERNAY VILBERT",
+                "postcode": "77540",
+                "phone": "0665518833"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.9248425,
+                    48.6829698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 38,
+                "name": "AUTO ENTREPRENEUR",
+                "addr_full": "3 RUE CHARLES GERHARDT",
+                "city": "STRASBOURG",
+                "postcode": "67000",
+                "phone": "0619240236"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7704292,
+                    48.5835484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 39,
+                "name": "MAISON ET SERVICES",
+                "addr_full": "419 RUE DE L ABBAYE",
+                "city": "MONTAUBAN",
+                "postcode": "82000",
+                "phone": "0677406623"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3550503,
+                    44.0109969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 40,
+                "name": "ROYAL MULTI SERVICES GUYANE",
+                "addr_full": "C RESIDENCE ARSENE RABAN RTE DE RABAN",
+                "city": "CAYENNE",
+                "postcode": "97300",
+                "phone": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.3130659,
+                    4.9256385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 41,
+                "name": "BOSSARD SERVICES",
+                "addr_full": "40 RUE DE L EGLISE BP 334",
+                "city": "LES HERBIERS",
+                "postcode": "85500",
+                "phone": "0251660559"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.9862802,
+                    46.8237231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 42,
+                "name": "SIVOM DES ARMOISES",
+                "addr_full": "57 RUE DU CHATEAU",
+                "city": "AULNOIS SUR SEILLE",
+                "postcode": "57590",
+                "phone": "0387014395"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3141385,
+                    48.8689118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 43,
+                "name": "LA MARGELLE",
+                "addr_full": "17 RUE DE L EAU QUI COURT",
+                "city": "STAFFELFELDEN",
+                "postcode": "68850",
+                "phone": "0389556420"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2706559,
+                    47.8258326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 44,
+                "name": "CRECHE SQUARE BANDE",
+                "addr_full": "5 RUE DU GENERAL GUILHEM  PARIS 11",
+                "city": "PARIS",
+                "postcode": "75011",
+                "phone": "0147005078"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3800982,
+                    48.8612193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 45,
+                "name": "SOS DIOGENE",
+                "addr_full": "4 RUE ARTHUR HOREGGER",
+                "city": "ST GERMAIN EN LAYE",
+                "postcode": "78100",
+                "phone": "0613152093"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0672934,
+                    48.8946347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 46,
+                "name": "COMMUNE D ECOUVES",
+                "addr_full": "LE BOURG RADON",
+                "city": "ECOUVES",
+                "postcode": "61250",
+                "phone": "0233281060"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1177347,
+                    48.4979699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 47,
+                "name": "ASSO MJC FLEURIEUX EVEUX",
+                "addr_full": "133 ROUTE DE BEL AIR",
+                "city": "EVEUX",
+                "postcode": "69210",
+                "phone": "0426186589"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6523091,
+                    45.8349734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 48,
+                "name": "ADPEP 10 ACM",
+                "addr_full": "2 RUE GEORGES CLEMENCEAU",
+                "city": "LUSIGNY SUR BARSE",
+                "postcode": "10270",
+                "phone": "0325801547"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2678076,
+                    48.2548207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 49,
+                "name": "AUTO ENTREPRENEUR",
+                "addr_full": "13 CHEMIN DU BARRAGE",
+                "city": "ST GALMIER",
+                "postcode": "42330",
+                "phone": "0629908455"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3224191,
+                    45.6014748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 50,
+                "name": "UNAIDE",
+                "addr_full": "16 18 RUE CHARLES RAVISSE",
+                "city": "CALAIS",
+                "postcode": "62100",
+                "phone": "0321359880"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8500623,
+                    50.9603754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 51,
+                "name": "FEUILLES RURALES POUILLEY LES VIGNES",
+                "addr_full": "2 RUE DE L ECOLE",
+                "city": "POUILLEY LES VIGNES",
+                "postcode": "25115",
+                "phone": "0381602111"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9367853,
+                    47.2562809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 52,
+                "name": "VOTRE JARDINIER",
+                "addr_full": "5 SENTE DES FRECULS",
+                "city": "ST PRIX",
+                "postcode": "95390",
+                "phone": "0134279019"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2776562,
+                    49.0099663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 53,
+                "name": "MAIRIE DE JUVIGNAC",
+                "addr_full": "997 LES ALLEES DE L EUROPE",
+                "city": "JUVIGNAC",
+                "postcode": "34990",
+                "phone": "0467104034"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8048804,
+                    43.6135849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 54,
+                "name": "CENTRE SOCIAL DU CANTON DE",
+                "addr_full": "35 AVENUE DU 8 MAI  JEANNIN CHRISTOPHE OU BRUN CHANTAL",
+                "city": "ST PIERRE LE MOUTIER",
+                "postcode": "58240",
+                "phone": "0386372058"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1217868,
+                    46.7941592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 55,
+                "name": "CENTRE SOCIO CULTUREL DE",
+                "addr_full": "32 RUE DU CHER",
+                "city": "WITTELSHEIM",
+                "postcode": "68310",
+                "phone": "0389554546"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2358272,
+                    47.8066677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 56,
+                "name": "ESPACES VERTS ENTRETIEN",
+                "addr_full": "ROUTE DE ROUGEMONT",
+                "city": "BRETIGNY",
+                "postcode": "21490",
+                "phone": "0608548889"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1036486,
+                    47.3922147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 57,
+                "name": "ASSO L ALPHABET",
+                "addr_full": "2 RUE DES ECOLES",
+                "city": "VAGNEY",
+                "postcode": "88120",
+                "phone": "0329617134"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.7173692,
+                    48.0061554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 58,
+                "name": "BIEN VIVRE A LANCE",
+                "addr_full": "PARC PIERRE DUROSOY  VALERIE GUENE",
+                "city": "LIEUVILLERS",
+                "postcode": "60130",
+                "phone": "0344517063"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.495679,
+                    49.470058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 59,
+                "name": "COMMUNE DE ROSTRENEN",
+                "addr_full": "6 RUE JOSEPH PENNEC BP54",
+                "city": "ROSTRENEN",
+                "postcode": "22110",
+                "phone": "0296574200"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.3216566,
+                    48.236569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 60,
+                "name": "VILLE DE DOURGES",
+                "addr_full": "RUE GAMBETTA HOTEL DE VILLE",
+                "city": "DOURGES",
+                "postcode": "62119",
+                "phone": "0321427861"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.9841267,
+                    50.4344546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 61,
+                "name": "MAIRIE DE VERNOUILLET",
+                "addr_full": "ESPLANADE DU 8 MAI 1945",
+                "city": "VERNOUILLET",
+                "postcode": "28500",
+                "phone": "0237628500"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.38031,
+                    48.732532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 62,
+                "name": "ASSO A CASA DI U PIULACONU",
+                "addr_full": "LEP FINOSELLO AV DU MARECHAL LYAUTEY BP 581",
+                "city": "AJACCIO",
+                "postcode": "20090",
+                "phone": "0495204298"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7438334,
+                    41.9395259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 63,
+                "name": "LE MAIL ENCHANTE",
+                "addr_full": "2 RUE FLANDRE",
+                "city": "CHEDIGNY",
+                "postcode": "37310",
+                "phone": "0247925747"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.999455,
+                    47.209071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 64,
+                "name": "MAJOR DAMES SALON SERVICES",
+                "addr_full": "570 BOULEVARD DE BRESSONS",
+                "city": "SALON DE PROVENCE",
+                "postcode": "13300",
+                "phone": "0490566180"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0859869,
+                    43.6492524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 65,
+                "name": "SARL AD JARDINS SERVICES",
+                "addr_full": "LA CHESNAIE",
+                "city": "HERIC",
+                "postcode": "44810",
+                "phone": "0228022038"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6452132,
+                    47.420048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 66,
+                "name": "JUGUIN PATRICIA",
+                "addr_full": "20 ALLEE DEBUSSY",
+                "city": "ST SEBASTIEN SUR LOIRE",
+                "postcode": "44230",
+                "phone": "0240030285"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4892851,
+                    47.2071941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 67,
+                "name": "DYNAM  M-O",
+                "addr_full": "9 PLACE DU GAL DE GAULLE",
+                "city": "FERRIERE LA PETITE",
+                "postcode": "59680",
+                "phone": "0327662137"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0200806,
+                    50.2392188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 68,
+                "name": "PHLOEME",
+                "addr_full": "6 RUE DE L EGLISE",
+                "city": "BASSE RENTGEN",
+                "postcode": "57570",
+                "phone": "0382834822"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1989668,
+                    49.4838646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 69,
+                "name": "VILLE DE SAIZERAIS",
+                "addr_full": "PLACE ADRIEN TOUSSAINT",
+                "city": "SAIZERAIS",
+                "postcode": "54380",
+                "phone": "0383244502"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0453938,
+                    48.7927964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 70,
+                "name": "AFCVA",
+                "addr_full": "CHEF LIEU MINI CRECHE HALTE GARDERIE LES GATTION",
+                "city": "ABONDANCE",
+                "postcode": "74360",
+                "phone": "0450735305"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.7879166,
+                    46.2946911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 71,
+                "name": "COMMUNE D ATTIGNAT",
+                "addr_full": "305 GRANDE RUE",
+                "city": "ATTIGNAT",
+                "postcode": "01340",
+                "phone": "0474259953"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1587025,
+                    46.2895633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 72,
+                "name": "DOM SERVICE",
+                "addr_full": "77 RUE DU GORD",
+                "city": "LE COUDRAY",
+                "postcode": "28630",
+                "phone": "0236152199"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4893834,
+                    48.4267848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 73,
+                "name": "A HOME PRESTANCE",
+                "addr_full": "69 RUE GORGE DE LOUP ALLEE B LYON - LYON 09",
+                "city": "LYON",
+                "postcode": "69009",
+                "phone": "0472590921"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8014915,
+                    45.769405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 74,
+                "name": "COMMUNE DE MAGNAC TOUVRE",
+                "addr_full": "PLACE DE L HOTEL DE VILLE",
+                "city": "MAGNAC SUR TOUVRE",
+                "postcode": "16600",
+                "phone": "0545371450"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.2233224,
+                    45.6776235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 75,
+                "name": "MAIRIE DE QUAEDYPRE",
+                "addr_full": "1 BIS ROUTE DE SOCX",
+                "city": "QUAEDYPRE",
+                "postcode": "59380",
+                "phone": "0328686603"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4547382,
+                    50.9359586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 76,
+                "name": "MAIRIE DE MAIZIERES",
+                "addr_full": "45 RUE CARNOT",
+                "city": "MAIZIERES",
+                "postcode": "54550",
+                "phone": "0383527541"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0612746,
+                    48.5839918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 77,
+                "name": "FAMILLES RURALES SECHILIENNE EVAD S",
+                "addr_full": "MAIRIE",
+                "city": "SECHILIENNE",
+                "postcode": "38220",
+                "phone": "0476081693"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.762892,
+                    45.09526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 78,
+                "name": "L ATALANTE",
+                "addr_full": "30 AVENUE DU D BARQUEMENT",
+                "city": "ST TROJAN LES BAINS",
+                "postcode": "17370",
+                "phone": "0546765706"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.2148385,
+                    45.8176559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 79,
+                "name": "FEUILLE DE JARDIN",
+                "addr_full": "5 RUE DES HAVEUSES  ZA LA CHANA",
+                "city": "ROCHE LA MOLIERE",
+                "postcode": "42230",
+                "phone": "0685036030"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3148411,
+                    45.4183018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 80,
+                "name": "ASS FAMILLES DE DOUAI",
+                "addr_full": "39 RUE DE L UNIVERSITE",
+                "city": "DOUAI",
+                "postcode": "59500",
+                "phone": "0327888428"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0801353,
+                    50.3671253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 81,
+                "name": "VITALIS SERVICES A DOMICILE",
+                "addr_full": "16 RUE DE POLOGNE",
+                "city": "RIXHEIM",
+                "postcode": "68170",
+                "phone": "0389429841"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4199143,
+                    47.7474824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 82,
+                "name": "VILATTE LOIC",
+                "addr_full": "LE GROS GUIDON",
+                "city": "DUN SUR AURON",
+                "postcode": "18130",
+                "phone": "0248595832"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.579834,
+                    46.879086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 83,
+                "name": "SARL SOLUTIA",
+                "addr_full": "35 RUE AUX ARENES",
+                "city": "METZ",
+                "postcode": "57000",
+                "phone": "0625430973"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1711901,
+                    49.1030089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 84,
+                "name": "MAIRIE DE COGNIN",
+                "addr_full": "8 RUE DE L EPINE",
+                "city": "COGNIN",
+                "postcode": "73160",
+                "phone": "0479693507"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8970219,
+                    45.5621306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 85,
+                "name": "ASSOCIATION 0-12 ANS",
+                "addr_full": "3 PLACE DE L EGLISE",
+                "city": "STE CHRISTINE",
+                "postcode": "49120",
+                "phone": "0241631315"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.847749,
+                    47.286517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 86,
+                "name": "IERFAS",
+                "addr_full": "29 RUE DU GENERAL BEURET",
+                "city": "PARIS",
+                "postcode": "75015",
+                "phone": "0144198517"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3023898,
+                    48.8404011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 87,
+                "name": "ASSO LES O LES A",
+                "addr_full": "MAIRIE PL DU GAL DE GAULL",
+                "city": "CHEROY",
+                "postcode": "89690",
+                "phone": "0386887752"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.9953207,
+                    48.2007737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 88,
+                "name": "ASSO LE CLOS DES POUSSINS",
+                "addr_full": "5 RUE DU COLLEGE",
+                "city": "DUN SUR AURON",
+                "postcode": "18130",
+                "phone": "0248598501"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.5725209,
+                    46.8844429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 89,
+                "name": "COMMUNE AYDOILLES",
+                "addr_full": "4 RUE DE LA MAIRIE",
+                "city": "AYDOILLES",
+                "postcode": "88600",
+                "phone": "0329657879"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5725941,
+                    48.2089415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 90,
+                "name": "FAMILLES RURALES AGIR",
+                "addr_full": "1 RUE DES GENEVIERS",
+                "city": "BELLEHERBE",
+                "postcode": "25380",
+                "phone": "0381441091"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6580107,
+                    47.2596093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 91,
+                "name": "LES PAPILLONS MULTICOULEURS",
+                "addr_full": "3 ROUTE DE LAVERUNE",
+                "city": "MONTPELLIER",
+                "postcode": "34070",
+                "phone": "0984519918"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8588099,
+                    43.604177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 92,
+                "name": "WATT HOME",
+                "addr_full": "57 C RUE JEAN JAURES",
+                "city": "ONNAING",
+                "postcode": "59264",
+                "phone": "0615873724"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5866369,
+                    50.3821184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 93,
+                "name": "MS",
+                "addr_full": "7 BOULEVARD DE LA MARNE",
+                "city": "MOUVAUX",
+                "postcode": "59420",
+                "phone": "0660181725"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.138552,
+                    50.698366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 94,
+                "name": "AIDE A DOMES",
+                "addr_full": "RUE DES CROZES ANTERIOUX",
+                "city": "NEBOUZAT",
+                "postcode": "63210",
+                "phone": "0767437422"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.906561,
+                    45.7257109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 95,
+                "name": "DOMICILE CLEAN",
+                "addr_full": "5 RUE DE LA PRAIRIE",
+                "city": "BAILLY ROMAINVILLIERS",
+                "postcode": "77700",
+                "phone": "0164182447"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8284203,
+                    48.8475569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 96,
+                "name": "VIVASERVICES",
+                "addr_full": "1 ESPLANADE COMPANS CAFFARELLI",
+                "city": "TOULOUSE",
+                "postcode": "31000",
+                "phone": "0562150432"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4361946,
+                    43.6111111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 97,
+                "name": "AUTO ENTREPRENEUR",
+                "addr_full": "42 RUE DES CELLIERES",
+                "city": "CRUET",
+                "postcode": "73800",
+                "phone": "0673974903"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0901978,
+                    45.5198026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 98,
+                "name": "ABRI COTON",
+                "addr_full": "11 AVENUE DES RIBAS",
+                "city": "VENELLES",
+                "postcode": "13770",
+                "phone": "0615442064"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4773076,
+                    43.5922601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 99,
+                "name": "SERVIZEN",
+                "addr_full": "52 RUE DE BOURGOGNE",
+                "city": "VIENNE",
+                "postcode": "38200",
+                "phone": "0474596158"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8725018,
+                    45.5249028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 100,
+                "name": "AUTO ENTREPRENEUR",
+                "addr_full": "218 RUE DU BOIS",
+                "city": "TOURCOING",
+                "postcode": "59200",
+                "phone": "0983324367"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1394381,
+                    50.7195736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 101,
+                "name": "AUTO ENTREPRENEUR",
+                "addr_full": "4 .  LES BASSES RIBOULLIERES",
+                "city": "NESMY",
+                "postcode": "85310",
+                "phone": "0766197285"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4126917,
+                    46.575422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 102,
+                "name": "LOU CIGALOUN",
+                "addr_full": "LE VILLAGE",
+                "city": "BEAUMETTES",
+                "postcode": "84220",
+                "phone": "0490724818"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2017954,
+                    43.8586846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 103,
+                "name": "GENERALE DES SERVICES",
+                "addr_full": "10 GRANDE RUE",
+                "city": "JUVISY SUR ORGE",
+                "postcode": "91260",
+                "phone": "0178910666"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3775084,
+                    48.6877558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 104,
+                "name": "LES JARDINS DE TRELIS",
+                "addr_full": "15 RUE JEAN JULIEN TRELIS",
+                "city": "ALES",
+                "postcode": "30100",
+                "phone": "0769947001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0852384,
+                    44.1222698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 105,
+                "name": "FAMILLE RURALES LA SALLE DE VIHIERS",
+                "addr_full": "23 RUE PRINCIPALE MAIRIE LA SALLE DE VIHIERS",
+                "city": "CHEMILLE EN ANJOU",
+                "postcode": "49310",
+                "phone": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6363173,
+                    47.1554314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 106,
+                "name": "NT SERVICES",
+                "addr_full": "8 LE POMMIER",
+                "city": "FAY DE BRETAGNE",
+                "postcode": "44130",
+                "phone": "0771125190"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8082225,
+                    47.3741637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 107,
+                "name": "TATYNANNY",
+                "addr_full": "64 RUE DE REUILLY  PARIS 12",
+                "city": "PARIS",
+                "postcode": "75012",
+                "phone": "0660571055"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3896991,
+                    48.8445306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 108,
+                "name": "ESSENTIEL ET DOMICILE",
+                "addr_full": "7 RUE DES HALLES",
+                "city": "CARQUEFOU",
+                "postcode": "44470",
+                "phone": "0272342144"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4920707,
+                    47.2978872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 109,
+                "name": "ADOMIS MARSEILLE",
+                "addr_full": "125 COURS LIEUTAUD  MARSEILLE 06",
+                "city": "MARSEILLE",
+                "postcode": "13006",
+                "phone": "0981225884"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3848554,
+                    43.2881284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 110,
+                "name": "NK2 SERVICES",
+                "addr_full": "2 RUE DE L ABREUVOIR",
+                "city": "RUNGIS",
+                "postcode": "94150",
+                "phone": "0615783309"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3477297,
+                    48.7472077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 111,
+                "name": "EURL LES PETITS CHATS",
+                "addr_full": "89 RUE ECUYERE",
+                "city": "ROUEN",
+                "postcode": "76000",
+                "phone": "0615380890"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.0906729,
+                    49.4438353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 112,
+                "name": "AUTO ENTREPRENEUR",
+                "addr_full": "3 RUE DES CARRIERS",
+                "city": "TREPT",
+                "postcode": "38460",
+                "phone": "0666413713"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3200841,
+                    45.6874653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 113,
+                "name": "COMMUNE DE MILHAUD",
+                "addr_full": "1 RUE PIERRE GUERIN  CS 40001",
+                "city": "MILHAUD",
+                "postcode": "30540",
+                "phone": "0466746182"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3087036,
+                    43.7896479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 114,
+                "name": "COM COM PORTE DU JURA",
+                "addr_full": "LA GRANDE RUE",
+                "city": "BEAUFORT",
+                "postcode": "39190",
+                "phone": "0384484540"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4383436,
+                    46.5742896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 115,
+                "name": "EURL L ILE AUX ENFANTS",
+                "addr_full": "13 BIS AVENUE DU SEGALA",
+                "city": "LE MONASTERE",
+                "postcode": "12000",
+                "phone": "0565728752"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.5746152,
+                    44.3342313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 116,
+                "name": "CRECHE LE PETIT CAROUSSEL",
+                "addr_full": "7 AVENUE DE LA FOUILLEUSE",
+                "city": "ST CLOUD",
+                "postcode": "92210",
+                "phone": "0144685225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2107083,
+                    48.8609769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 117,
+                "name": "CESAM",
+                "addr_full": "2 ALLEE DES ONYX APPT 18",
+                "city": "ST DENIS",
+                "postcode": "97400",
+                "phone": "0202102435"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.4514405,
+                    -20.8929658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 118,
+                "name": "OCCITAMOMES",
+                "addr_full": "15 RUE HENRI DELPY",
+                "city": "AUTERIVE",
+                "postcode": "31190",
+                "phone": "0561715437"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4786029,
+                    43.3536959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 119,
+                "name": "AGGLO PAYS D ISSOIRE",
+                "addr_full": "MAISON HENRI LAVEUR LA BEC",
+                "city": "ISSOIRE",
+                "postcode": "63500",
+                "phone": "0415622000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.556551,
+                    46.06054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 120,
+                "name": "SARL LA MAISON BLEUE",
+                "addr_full": "148 152 ROUTE DE LA REINE",
+                "city": "BOULOGNE BILLANCOURT",
+                "postcode": "92100",
+                "phone": "0146540574"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.230323,
+                    48.8409042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 121,
+                "name": "SARL LA MAISON BLEUE",
+                "addr_full": "148 152 ROUTE DE LA REINE",
+                "city": "BOULOGNE BILLANCOURT",
+                "postcode": "92100",
+                "phone": "0146540574"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.230323,
+                    48.8409042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 122,
+                "name": "AZAE RENNES",
+                "addr_full": "A RUE DU PETIT BE",
+                "city": "BRUZ",
+                "postcode": "35170",
+                "phone": "0299652317"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7597955,
+                    48.030196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 123,
+                "name": "EURL KOZALI",
+                "addr_full": "87 RUE AUGUSTIN ARCHAMABAUD",
+                "city": "ST PIERRE",
+                "postcode": "97410",
+                "phone": "0692104375"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.4793638,
+                    -21.3340053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 124,
+                "name": "BABYCHOU SERVICES PARIS NORD EST",
+                "addr_full": "14 RUE LAUZIN  PARIS 19",
+                "city": "PARIS",
+                "postcode": "75019",
+                "phone": "0178905910"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3788542,
+                    48.875694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 125,
+                "name": "CINDY AUGUSTIN SERVICES",
+                "addr_full": "39 AVENUE DE SAINT MANDE  PARIS 12",
+                "city": "PARIS",
+                "postcode": "75012",
+                "phone": "0783943042"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4011137,
+                    48.8453289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 126,
+                "name": "O2 CARE SERVICES",
+                "addr_full": "74 PLACE DE L HOTEL DE VILLE",
+                "city": "BONNEVILLE",
+                "postcode": "74130",
+                "phone": "0775215154"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4082831,
+                    46.0780023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 127,
+                "name": "CRECHE HALTE GARDERIE ASSOCIATIVE",
+                "addr_full": "4 PLACE DE EGLISE",
+                "city": "MONTALIEU VERCIEU",
+                "postcode": "38390",
+                "phone": "0474338326"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4118525,
+                    45.793964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 128,
+                "name": "CENTRE SOCIAL VILLENEUVE LES SAUNES",
+                "addr_full": "PLACE DU 14 JUILLET",
+                "city": "LA ROCHELLE",
+                "postcode": "17000",
+                "phone": "0546441044"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.12445,
+                    46.1518919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 129,
+                "name": "COMMUNE ACCUEIL PERISCOLAIRE",
+                "addr_full": "10 RUE DOCTEUR PRAUX",
+                "city": "ST GILDAS DES BOIS",
+                "postcode": "44530",
+                "phone": "0240015452"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0380014,
+                    47.518252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 130,
+                "name": "COMMUNE DE LEYMENT CENTRE DE LOISIRS",
+                "addr_full": "64 RUE DE LA GUILLOTIERE MAIRIE DE LEYMENT",
+                "city": "LEYMENT",
+                "postcode": "01150",
+                "phone": "0474349223"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2930687,
+                    45.9232217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 131,
+                "name": "ART ET JARDINS",
+                "addr_full": "QUARTIER GOUVERNES EST",
+                "city": "ST PRIEST",
+                "postcode": "07000",
+                "phone": "0681868826"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.699218,
+                    48.857732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 132,
+                "name": "TOM POUCE SERVICES",
+                "addr_full": "14 ROUTE DU COR DE CHASSE",
+                "city": "ILLKIRCH GRAFFENSTADEN",
+                "postcode": "67400",
+                "phone": "0388659177"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7158895,
+                    48.5136923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 133,
+                "name": "COMMUNE DE COMBOURG",
+                "addr_full": "RUE DE LA MAIRIE",
+                "city": "COMBOURG",
+                "postcode": "35270",
+                "phone": "0299730018"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7525113,
+                    48.4097587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 134,
+                "name": "COLLECTIF PETITE ENFANCE",
+                "addr_full": "8 ALLEE DE LA PONSONNE",
+                "city": "MANOSQUE",
+                "postcode": "04100",
+                "phone": "0492728041"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7890903,
+                    43.8268536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 135,
+                "name": "MAIRIE",
+                "addr_full": "10 PLACE DE L EGLISE",
+                "city": "ARGENTRE",
+                "postcode": "53210",
+                "phone": "0243373021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6415147,
+                    48.0835487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 136,
+                "name": "SOCIAUX CULTUREL",
+                "addr_full": "FOYER DU RABE",
+                "city": "LONGAGES",
+                "postcode": "31410",
+                "phone": "0561872004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.2413435,
+                    43.3540231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 137,
+                "name": "VILLE DE SALLANCHES",
+                "addr_full": "30 QUAI DE L HOTEL DE VILLE",
+                "city": "SALLANCHES",
+                "postcode": "74700",
+                "phone": "0450912744"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6307061,
+                    45.9366327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 138,
+                "name": "ASSOCIATION CRECHE LES RACANAILLES",
+                "addr_full": "14 RUE DU CHATEAU",
+                "city": "GENERAC",
+                "postcode": "30510",
+                "phone": "0466047670"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3481788,
+                    43.7264987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 139,
+                "name": "MAIRIE DE MAULE",
+                "addr_full": "RUE DES GALLIENS BP50",
+                "city": "MAULE",
+                "postcode": "78580",
+                "phone": "0130904900"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8490873,
+                    48.91024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 140,
+                "name": "EURL MAZIER SERVICES JARDINS",
+                "addr_full": "6 LE COUDRAIS",
+                "city": "ROMAGNE",
+                "postcode": "35133",
+                "phone": "0674134793"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.29111,
+                    48.339933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 141,
+                "name": "ASSOCIATION ACCUEIL DES MARMOUSETS",
+                "addr_full": "MAIRIE DE VENOY",
+                "city": "VENOY",
+                "postcode": "89290",
+                "phone": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.6366817,
+                    47.8061298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 142,
+                "name": "MAIRIE DE SALLES SUR MER",
+                "addr_full": "PLACE DE LA MAIRIE",
+                "city": "SALLES SUR MER",
+                "postcode": "17220",
+                "phone": "0546560370"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.008972,
+                    46.128663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 143,
+                "name": "ASSO PICOTI PICOTA",
+                "addr_full": "ALLEE JEAN MOULINS",
+                "city": "LA FERTE ALAIS",
+                "postcode": "91590",
+                "phone": "0169909619"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3467841,
+                    48.4775686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 144,
+                "name": "CRECHE PARENTALE",
+                "addr_full": "125 RUE DU LONG POT",
+                "city": "LILLE",
+                "postcode": "59000",
+                "phone": "0320563928"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0886417,
+                    50.6282627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 145,
+                "name": "CENTRE SOCIAL DES BUERS",
+                "addr_full": "17 RUE PIERRE JOSEPH PROUDHON",
+                "city": "VILLEURBANNE",
+                "postcode": "69100",
+                "phone": "0478842833"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8894659,
+                    45.7738567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 146,
+                "name": "COMMUNE D ELLIANT",
+                "addr_full": "4 RUE BRIZEUX",
+                "city": "ELLIANT",
+                "postcode": "29370",
+                "phone": "0298109111"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.8890285,
+                    47.9958419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 147,
+                "name": "MAIRIE DE  SAINT THONAN",
+                "addr_full": "1 PLACE DES NOYERS",
+                "city": "ST THONAN",
+                "postcode": "29800",
+                "phone": "0298401333"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.336002,
+                    48.4782714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 148,
+                "name": "CRECHE PARENTALE MAISON PETITE ENFANCE",
+                "addr_full": "28 RUE DU SENECHAL",
+                "city": "VILLEFRANCHE DE ROUERGUE",
+                "postcode": "12200",
+                "phone": "0565450752"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0387839,
+                    44.3502647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 149,
+                "name": "DAMY SERVICES",
+                "addr_full": "10 AVENUE REAUMUR",
+                "city": "CLAMART",
+                "postcode": "92140",
+                "phone": "0633511122"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2389851,
+                    48.776744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 150,
+                "name": "FREE DOM ST ETIENNE",
+                "addr_full": "8 SQUARE VIOLETTE",
+                "city": "ST ETIENNE",
+                "postcode": "42000",
+                "phone": "0678524920"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.390852,
+                    45.4366257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 151,
+                "name": "COMMUNE D ALLONNES",
+                "addr_full": "135 RUE ALBERT POTTIER BP 23",
+                "city": "ALLONNES",
+                "postcode": "49650",
+                "phone": "0241520030"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0237461,
+                    47.2930934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 152,
+                "name": "CENTRE DE LOISIRS",
+                "addr_full": "CENTRE MUNICIPAL A CASTETS",
+                "city": "TARNOS",
+                "postcode": "40220",
+                "phone": "0559644597"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4883658,
+                    43.5386904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 153,
+                "name": "PINCE PAYSAGE SERVICES",
+                "addr_full": "LA PANCHEVALIERE",
+                "city": "JANZE",
+                "postcode": "35150",
+                "phone": "0609969122"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5089413,
+                    47.9733138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 154,
+                "name": "LES 3 RECRES",
+                "addr_full": "ROUTE DE THOISSEY MAIRIE DE GUEREINS",
+                "city": "GUEREINS",
+                "postcode": "01090",
+                "phone": "0603976008"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7803034,
+                    46.1090921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 155,
+                "name": "SERVICES CHABRAT",
+                "addr_full": "6 RUE DES METIERS",
+                "city": "COUTERNON",
+                "postcode": "21560",
+                "phone": "0380370487"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1405678,
+                    47.3249234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 156,
+                "name": "MAIRIE",
+                "addr_full": "123 ROUTE DE MOUY",
+                "city": "CAUFFRY",
+                "postcode": "60290",
+                "phone": "0344733067"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4444836,
+                    49.3232491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 157,
+                "name": "ASSOCIATION LES P TITS MOUSSES",
+                "addr_full": "9 RUE DE L EVECHE",
+                "city": "MOUZILLON",
+                "postcode": "44330",
+                "phone": "0551717057"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.2830529,
+                    47.1404393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 158,
+                "name": "ASSO DES EOMBRAILLES",
+                "addr_full": "PLACE MICHEL DUVAL",
+                "city": "ST ELOY LES MINES",
+                "postcode": "63700",
+                "phone": "0473859319"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8345835,
+                    46.1606981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 159,
+                "name": "ABELO",
+                "addr_full": "2396 ROUTE DE FONTGAMATE",
+                "city": "MEYREUIL",
+                "postcode": "13590",
+                "phone": "0442755110"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4839571,
+                    43.5016526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 160,
+                "name": "SOLUVIE",
+                "addr_full": "64 ALLEE NATHAN KATZ",
+                "city": "MULHOUSE",
+                "postcode": "68100",
+                "phone": "0611977547"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3525116,
+                    47.7578146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 161,
+                "name": "MAISON DES ENFANTS",
+                "addr_full": "LES RAMBINS",
+                "city": "CORRENCON EN VERCORS",
+                "postcode": "38250",
+                "phone": "0476958085"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.524499,
+                    45.029549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 162,
+                "name": "COMMUNAUTE DE COMMUNE DU PAYS ST SEINE",
+                "addr_full": "1 PLACE DE L EGLISE",
+                "city": "ST SEINE L ABBAYE",
+                "postcode": "21440",
+                "phone": "0380350751"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.788965,
+                    47.4401454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 163,
+                "name": "ASSOCIATION ALFA3A",
+                "addr_full": "RUE DE LA SALLE DES F�TES  ENTACHE",
+                "city": "BRIORD",
+                "postcode": "01470",
+                "phone": "0474367010"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.459173,
+                    45.782708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 164,
+                "name": "CENTRE SOCIAL LA PAZ",
+                "addr_full": "BP 17",
+                "city": "ST JEAN EN ROYANS",
+                "postcode": "26190",
+                "phone": "0475477655"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.291575,
+                    45.016847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 165,
+                "name": "MICRO CRECHE LES LOULOUS DES BOIS",
+                "addr_full": "25 AUGUSTE RODIN",
+                "city": "VINEUIL",
+                "postcode": "41350",
+                "phone": "0699898911"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3797366,
+                    47.5824847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 166,
+                "name": "FAM RURALE DU PLATEAU DE CHALENCON",
+                "addr_full": "RUE DE L ETANG LE CLOS DE LORETTE",
+                "city": "ST PAL DE CHALENCON",
+                "postcode": "43500",
+                "phone": "0677117595"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9575354,
+                    45.358122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 167,
+                "name": "ASSOCIATION GYMNIQUE DES LOGES",
+                "addr_full": "43 RUE DE LA PELLE",
+                "city": "DARVOY",
+                "postcode": "45150",
+                "phone": "0662688232"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0984348,
+                    47.8538081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 168,
+                "name": "ATOUT SERVICE",
+                "addr_full": "41 RUE DE SAINT OMER",
+                "city": "TANGRY",
+                "postcode": "62550",
+                "phone": "0679116744"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3543731,
+                    50.4644241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 169,
+                "name": "MUMU SITTING",
+                "addr_full": "16 LE POMMIER BENOIST",
+                "city": "LE MESNIL THOMAS",
+                "postcode": "28250",
+                "phone": "0699014999"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.0948659,
+                    48.589442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 170,
+                "name": "MICRO CRECHE TIPIKAN",
+                "addr_full": "18 CHEMIN DE FARLAIX",
+                "city": "ST PERAY",
+                "postcode": "07130",
+                "phone": "0952868354"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8492984,
+                    44.9452164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 171,
+                "name": "KANGOUROU KIDS",
+                "addr_full": "122 AVENUE DE LA RESISTANCE",
+                "city": "LE RAINCY",
+                "postcode": "93340",
+                "phone": "0185100109"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.5168628,
+                    48.8983424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 172,
+                "name": "LEDA",
+                "addr_full": "86 ROUTE DE DIEULEFIT",
+                "city": "MONTELIMAR",
+                "postcode": "26200",
+                "phone": "0626303335"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7730116,
+                    44.5499937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 173,
+                "name": "ASSOCIATION LA FRIPONNERIE",
+                "addr_full": "24 RUE DE LA METALLURGIE  LYON 03",
+                "city": "LYON",
+                "postcode": "69003",
+                "phone": "0472687084"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.87105,
+                    45.7542793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 174,
+                "name": "LES MARMOTTES",
+                "addr_full": "5 PLACE MALAKOFF",
+                "city": "EPERNAY",
+                "postcode": "51200",
+                "phone": "0601925265"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9636586,
+                    49.0370301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 175,
+                "name": "ANACOURS",
+                "addr_full": "40 RUE JEAN PIERRE TIMBAUD",
+                "city": "ISSY LES MOULINEAUX",
+                "postcode": "92130",
+                "phone": "0141097689"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2495627,
+                    48.8195409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 176,
+                "name": "SAS AVHESTIA",
+                "addr_full": "18 RUE HENRI REGNAULT",
+                "city": "RUEIL MALMAISON",
+                "postcode": "92500",
+                "phone": "0141423923"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1881138,
+                    48.8589209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 177,
+                "name": "MAIRIE DE BOGNY SUR MEUSE",
+                "addr_full": "1 PLACE DE L HOTEL DE VILLE",
+                "city": "BOGNY SUR MEUSE",
+                "postcode": "08120",
+                "phone": "0324539427"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7660492,
+                    49.8556536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 178,
+                "name": "CATIMI.NID",
+                "addr_full": "A RUE FRANCOIS RORTAIS",
+                "city": "PETIT MARS",
+                "postcode": "44390",
+                "phone": "0647214497"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.449977,
+                    47.3970252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 179,
+                "name": "LES PTITS ZELFES",
+                "addr_full": "26 AVENUE CHARLES DE GAULLE",
+                "city": "ETAMPES",
+                "postcode": "91150",
+                "phone": "0616265897"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1496523,
+                    48.4215439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 180,
+                "name": "SARL LA MAISON BLEUE",
+                "addr_full": "148 152 ROUTE DE LA REINE",
+                "city": "BOULOGNE BILLANCOURT",
+                "postcode": "92100",
+                "phone": "0963576834"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.230323,
+                    48.8409042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 181,
+                "name": "AUX P TITS TRAVAUX",
+                "addr_full": "26 RUE DE LA HUNAUDIERE",
+                "city": "LA GUERCHE DE BRETAGNE",
+                "postcode": "35130",
+                "phone": "0628288250"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.2358128,
+                    47.9483029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 182,
+                "name": "SOLSISERVICES",
+                "addr_full": "L ESTANQUE",
+                "city": "VARENNES",
+                "postcode": "31450",
+                "phone": "0612166349"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.6842224,
+                    43.4755715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 183,
+                "name": "BABY ET CO",
+                "addr_full": "18 RUE DES CORDONNIERS",
+                "city": "ISTRES",
+                "postcode": "13800",
+                "phone": "0689281028"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9627495,
+                    43.5169254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 184,
+                "name": "COMMUNE DE LESPINASSE",
+                "addr_full": "PLACE DE L OCCITANIE",
+                "city": "LESPINASSE",
+                "postcode": "31150",
+                "phone": "0561354166"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.399771,
+                    43.684255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 185,
+                "name": "BONJOUR SERVICES",
+                "addr_full": "65 RUE VICTOR HUGO",
+                "city": "LIBOURNE",
+                "postcode": "33500",
+                "phone": "0630880140"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2454818,
+                    44.915062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 186,
+                "name": "EIRL RODRIGUES PEREIRA",
+                "addr_full": "LES GRANDS CHAMPS",
+                "city": "VAUGNERAY",
+                "postcode": "69670",
+                "phone": "0478812079"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6766951,
+                    45.7278664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 187,
+                "name": "CRECHE JEUX DE MOTS",
+                "addr_full": "3 ROUTE D AUSSONE",
+                "city": "CORNEBARRIEU",
+                "postcode": "31700",
+                "phone": "0534522977"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3238457,
+                    43.6552403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 188,
+                "name": "LES LUTINS DES BOIS",
+                "addr_full": "1 ROUTE DE WOLSHEIM",
+                "city": "AVOLSHEIM",
+                "postcode": "67120",
+                "phone": "0647883784"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5090501,
+                    48.5616541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 189,
+                "name": "O2 CARE SERVICES",
+                "addr_full": "2 RUE DE LA PANTIERE",
+                "city": "LES HERBIERS",
+                "postcode": "85500",
+                "phone": "0775284086"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.9934347,
+                    46.8669629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 190,
+                "name": "MISS PROPRETE",
+                "addr_full": "18 RUE PETIT CAVAILLAC",
+                "city": "AVEZE",
+                "postcode": "30120",
+                "phone": "0781227689"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5926003,
+                    43.9718714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 191,
+                "name": "ENTREPRISE INDIVIDUELLE",
+                "addr_full": "2 RUE GASTON IV LE CROISE",
+                "city": "MORLAAS",
+                "postcode": "64160",
+                "phone": "0680004392"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2631825,
+                    43.3494784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 192,
+                "name": "CRECHE PERSONNEL HOPITAL PAUL DOUMER",
+                "addr_full": "CHEMIN DE L ORDIBEE",
+                "city": "ANGICOURT",
+                "postcode": "60940",
+                "phone": "0344718319"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4859325,
+                    49.3175924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 193,
+                "name": "PAAD",
+                "addr_full": "14 RUE DU PRIEURE",
+                "city": "CHAUMONT",
+                "postcode": "52000",
+                "phone": "0325020917"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1561992,
+                    48.1227787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 194,
+                "name": "AYLF PETITE ENFANCE",
+                "addr_full": "646 RUE DE CAGNY BP 5881",
+                "city": "AMIENS",
+                "postcode": "80090",
+                "phone": "0322535251"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3322223,
+                    49.8716982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 195,
+                "name": "AUTO ENTREPRENEUR",
+                "addr_full": "11 AVENUE SIDI BRAHIM RES LES JARDINS DU SOLEIL BAT A",
+                "city": "GRASSE",
+                "postcode": "06130",
+                "phone": "0699307135"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9243936,
+                    43.6518665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 196,
+                "name": "LA PTITE PRAIRIE",
+                "addr_full": "53 B RUE DU POINT DU JOUR",
+                "city": "ST LAURENT DE BREVEDENT",
+                "postcode": "76700",
+                "phone": "0235305021"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.2553105,
+                    49.5456466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 197,
+                "name": "GAARDEN",
+                "addr_full": "36 RUE DU CHEMIN VERT  PARIS 11",
+                "city": "PARIS",
+                "postcode": "75011",
+                "phone": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3737881,
+                    48.8586634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 198,
+                "name": "AUTO ENTREPRENEUR",
+                "addr_full": "51 BIS AVENUE NOTRE DAME DU L",
+                "city": "ANGERS",
+                "postcode": "49000",
+                "phone": "0625112842"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.517146,
+                    47.501835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 199,
+                "name": "GINKGO SERVICES",
+                "addr_full": "35 RUE DE BALE",
+                "city": "HEGENHEIM",
+                "postcode": "68220",
+                "phone": "0389671968"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5354542,
+                    47.5627434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "num": 200,
+                "name": "TOURAINE SAP",
+                "addr_full": "31 GRANDE RUE",
+                "city": "LOCHES",
+                "postcode": "37600",
+                "phone": "0775291808"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9989352,
+                    47.1284898
+                ]
+            }
+        }
+    ]
+}
