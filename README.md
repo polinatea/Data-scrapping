@@ -1,4 +1,6 @@
 # Data-scrapping
+Extracted data for websites Edenred and Spar:
+
 Edenred 1
 ![image](https://github.com/polinatea/Data-scrapping/assets/67418401/c69ddd04-bd09-4966-b97e-caf2a6900baa)
 
