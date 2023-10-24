@@ -1,4 +1,16 @@
 # Data-scrapping
+<ul>
+  <li>Analysed web resource architecture and explored methods for spatial data
+extraction via the HTTP protocol.</li>
+<li>Developed spatial data scraping models using the Python programming language
+and the Scrapy framework.</li>
+  <li>Standardized spatial data according to the open data format for points of interest
+developed by the open mapping community - OSM (OpenStreetMap).</li>
+  <li>Optimized processing large data volumes through asynchronous programming.</li>
+  <li>Validated obtained results for data format compliance, data completeness, and
+script performance.</li>
+</ul>
+
 Extracted data for websites Edenred and Spar:
 
 Edenred 1
